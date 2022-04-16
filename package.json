@@ -1,6 +1,13 @@
 {
-  "name": "felt-template",
-  "description": "a web app template with SvelteKit, Gro, and Felt",
+  "name": "blitwagon.net",
+  "description": "homepage of Blit Wagon",
+  "license": "Unlicense",
+  "homepage": "https://www.blitwagon.net",
+  "author": {
+    "name": "Blit Wagon",
+    "email": "blitwagon@gmail.com",
+    "url": "https://www.blitwagon.net"
+  },
   "version": "0.0.1",
   "type": "module",
   "engines": {

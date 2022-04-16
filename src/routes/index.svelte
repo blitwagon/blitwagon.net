@@ -1,15 +1,16 @@
 <script lang="ts">
-	import Message from '@feltcoop/felt/ui/Message.svelte';
-
-	import Mreows from '$lib/Mreows.svelte';
 </script>
 
 <main class="markup column">
 	<section class="column-sm">
-		<h1>felt-template</h1>
-		<Message>hello and welcome</Message>
+		<h1>blitwagon.net</h1>
 	</section>
-	<Mreows />
+	<section>
+		<p>coming soon</p>
+	</section>
+	<section>
+		<p><a href="https://github.com/blitwagon/blitwagon.net">public domain source code</a></p>
+	</section>
 </main>
 
 <style>
@@ -18,8 +19,6 @@
 		flex-direction: column;
 		align-items: center;
 		margin: 0 auto;
-	}
-	h1 {
 		text-align: center;
 	}
 </style>
