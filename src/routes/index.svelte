@@ -4,7 +4,7 @@
 <main class="markup column">
 	<section>
 		<h1>Blit Wagon</h1>
-		<p class="caption">open source web hobbyist</p>
+		<p class="caption">open source web hobby-grade software and tools</p>
 		<p>
 			<a href="https://www.cosmicplayground.org">cosmicplayground.org</a> open source web site
 		</p>
