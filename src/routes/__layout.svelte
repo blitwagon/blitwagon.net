@@ -49,7 +49,7 @@
 	.banner-bg {
 		position: absolute;
 		inset: 0;
-		background-image: url('/banner.webp');
+		background-image: url('/banner_lossy.webp');
 		background-repeat: repeat;
 		background-position-x: calc(25% + var(--pan_x));
 		background-position-y: calc(0% + var(--pan_y));
