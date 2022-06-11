@@ -1,6 +1,6 @@
 :root {
 	--text_color: hsl(304, 100%, 95%);
-	--link_color: hsl(304, 100%, 79%);
+	--link_color: hsl(28, 78%, 62%);
 	--outline_color: var(--text_color);
 	/* custom */
 	--overlay_tint: var(--tint_dark_5);
