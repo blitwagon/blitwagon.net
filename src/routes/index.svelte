@@ -6,12 +6,14 @@
 		<h1>Blit Wagon</h1>
 		<p class="caption">open source web hobby-grade software & tools</p>
 		<p>
-			<a href="https://www.cosmicplayground.org">cosmicplayground.org</a> open source web site
+			<a href="https://www.cosmicplayground.org">cosmicplayground.org</a> is tools and toys for
+			expanding minds (<a href="https://github.com/cosmicplayground/cosmicplayground">source</a>)
 		</p>
 		<p>
 			<a href="https://flat.cosmicplayground.org">flat.cosmicplayground.org</a> is a
-			<em>[work in progress]</em> forkable game and creative educational environment featuring open source
-			hobby-grade web tools for playing with 2d things in Svelte, SvelteKit, TypeScript, and PixiJS
+			<em>[work in progress]</em> forkable game and creative educational environment featuring open
+			source hobby-grade web tools for playing with 2d things in Svelte, SvelteKit, TypeScript, and
+			PixiJS (<a href="https://github.com/cosmicplayground/flat">source</a>)
 		</p>
 		<p>
 			<a href="https://www.cosmicplayground.dev">cosmicplayground.dev</a> community+more, see the
