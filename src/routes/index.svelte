@@ -59,7 +59,4 @@
 		margin-bottom: var(--spacing_sm);
 		font-size: var(--font_size_xl4);
 	}
-	p {
-		font-size: var(--font_size_lg);
-	}
 </style>
